@@ -1,8 +1,11 @@
 # Genomic Tools
 
 __Author:__ David Piñeyro
+
 __Date:__ 2020-11-05
+
 __Version:__ 0.0.1
+
 __License:__ GPL-3
 
 This package is a collection of variables, classes and functions meant
@@ -10,7 +13,7 @@ to process genomic data.
 
 As now, it contains three handy classes:
 
-- GeneAnnotated: this class is menat to represent a gene, generating
+- GeneAnnotated: this class is meant to represent a gene, generating
 an object with all the infromation as well as relevant sequences that
 can be obtained from a given annotation (GTF format). It also have some
 relevant functionality.
